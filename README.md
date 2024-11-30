@@ -1,7 +1,7 @@
-<<<<<<< HEAD
-<h1>ANALYSIS ON AIRCRAFT DATA TO DETERMINE THE SAFEST AIRCRAFT FOR COMMERCIAL AND PRIVATE PURPOSES</h1>
 
-<h3>Overview</h3>
+<h3>ANALYSIS ON AIRCRAFT DATA TO DETERMINE THE SAFEST AIRCRAFT FOR COMMERCIAL AND PRIVATE PURPOSES</h3>
+
+<h4>Overview</h4>
 
 This project aims to assess the risks associated with various aircraft in order to help the company decide which aircraft to purchase for both commercial and private enterprises. The focus is on determining which aircraft are the lowest risk for the company to enter this new business venture. The analysis will translate findings into actionable insights for the head of the new aviation division.
 
@@ -42,7 +42,7 @@ The dataset contains the following columns:
     Total.Uninjured: Number of individuals who were not injured.
     Weather.Condition: Weather conditions at the time of the accident.
     Total_Injuries: This is a weighted average of Fatal, Serious and Minor injuries 
-Vizualizations:
+Visualizations:
 
     Univariate: 
         Conducted Univariate vizualization of all columns with appropriate plots.
@@ -57,6 +57,10 @@ Vizualizations:
     Multivariate:
         Heatmap of Correlation Matrix This helps us identify relationships between numerical variables, such as Total_Injuries
         Pairplot of Key Variables A pairplot will show pairwise relationships between several numeric variables.
+
+<h3>Conclusions<h3/>
+
+
 
 
 
