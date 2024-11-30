@@ -45,14 +45,20 @@ The dataset contains the following columns:
 Vizualizations:
 
     Univariate: 
-
         Conducted Univariate vizualization of all columns with appropriate plots.
-
-
     Bivariate:
         Make vs. Engine.Type: This can help understand which engine types are associated with specific manufacturers
         Make vs. Aircraft.damage: Show the relationship between aircraft makes and the damage severity
-        
+        Engine.Type vs. Number.of.Engines: Find if any engine type corellates with a specific number of engines
+        Engine.Type vs. Injury.Severity
+        Make vs. Total.Fatal.Injuries
+        Purpose.of.flight vs. Aircraft.damage
+        Weather.Condition vs. Injury.Severity
+    Multivariate:
+        Heatmap of Correlation Matrix This helps us identify relationships between numerical variables, such as Total_Injuries
+        Pairplot of Key Variables A pairplot will show pairwise relationships between several numeric variables.
+
+
 
 
         
