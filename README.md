@@ -59,6 +59,14 @@ Visualizations:
         Pairplot of Key Variables A pairplot will show pairwise relationships between several numeric variables.
 
 <h3>Conclusions<h3/>
+The company should buy Turbo Fan Engine Type.<br>
+
+The company should purchase a Boeing Aircraft<br>
+
+<h3>Link to Tableau Dashboard</h3>
+https://public.tableau.com/app/profile/misheck.kibunja/viz/TableauDashboard_17331351787630/Dashboard1?publish=yes
+
+
 
 
 
